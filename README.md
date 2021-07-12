@@ -43,17 +43,17 @@ The following components have been used in making this project:
 
 ### TB6612FNG Motor Driver:
 
-| GPIO Pin | Function | wiringPi |          
-|----------|----------|----------|
-| 23       |  PWML    | 23       |
-| 24       |  BIN1 / R1     | 24       |
-| 25       |  BIN2 / R0       | 25       |
-| 26       |  PWMR    | 26       |
-| 27       |  STBY    | 27       |
-| 28       |  AIN1 / L1   | 28       |
-| 29       |  AIN2 / L0   | 29       |
-| GND      |  Ground  | -        |
-| VCC      |  3.3V    | -        |
+| GPIO Pin | Function   | wiringPi |          
+|----------|------------|----------|
+| 23       |  PWML      | 23       |
+| 24       |  BIN1 / R1 | 24       |
+| 25       |  BIN2 / R0 | 25       |
+| 26       |  PWMR      | 26       |
+| 27       |  STBY      | 27       |
+| 28       |  AIN1 / L1 | 28       |
+| 29       |  AIN2 / L0 | 29       |
+| GND      |  Ground    | -        |
+| VCC      |  3.3V      | -        |
 
 ### nRF24L01+ module:
 
